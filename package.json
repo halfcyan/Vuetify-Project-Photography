@@ -11,7 +11,7 @@
     "core-js": "^3.36.1",
     "vue": "^3.4.21",
     "vue-router": "^3.6.5",
-    "vuetify": "^3.5.13"
+    "vuetify": "^3.6.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^5.0.8",
